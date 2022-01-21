@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
-project(agora_e_de_vez C)
+project(Projeto C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(agora_e_de_vez main.c projeto.c projeto.h)
+add_executable(Projeto main.c projeto.c projeto.h)
