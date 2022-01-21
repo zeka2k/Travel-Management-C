@@ -1,0 +1,160 @@
+3
+111111111,Jose Silva,911111111,21-03-1999,Rua 1,
+3
+3,21,1,1999
+3
+Los Angels,America do Norte,34.1,118.2
+3
+Disneyland Park,info,
+Los Angels Museum of Art,info,
+Santa Monica Pier,info,
+Madrid,Espanha,40.4,3.7
+3
+Estadio Santiago Bernabeu,info,
+Plaza Mayor,info,
+Gran Via,info,
+Monaco,Monaco,43.7,7.4
+3
+Monte Carlo Casino,info,
+Exotic Garden of Monaco,info,
+Saint Nicholas Cathedral,info,
+2,21,3,1999
+3
+Londres,Inglaterra,51.5,0.1
+3
+The British Museum,info,
+Tower of London,info,
+Natural History Museum,info,
+Roma,Italia,41.9,12.5
+3
+Colosseum,info,
+Pantheon,info,
+Trevi Fountain,info,
+Santorini,Grecia,36.4,25.5
+3
+Red Beach,info,
+Kamari Beach,info,
+Perivolos,info,
+1,11,1,2000
+3
+Braga,Portugal,41.5,8.4
+3
+Estadio d,info,
+Santuario de Nossa Senhora do Sameiro,info,
+Elevador do Bom Jesus do Monte,info,
+Lisboa,Portugal,38.7,9.1
+3
+Estadio da Luz,info,
+Torre de Belem,info,
+Oceanario de Lisboa,info,
+Porto,Portugal,41.2,8.6
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+222222222,Rodrigo Branco,922222222,23-08-1999,Rua 2,
+3
+3,21,12,1970
+3
+Monaco,Monaco,43.7,7.4
+3
+Monte Carlo Casino,info,
+Exotic Garden of Monaco,info,
+Saint Nicholas Cathedral,info,
+Santorini,Grecia,36.4,25.5
+3
+Red Beach,info,
+Kamari Beach,info,
+Perivolos,info,
+Tokyo,Japao,35.7,139.8
+3
+Senso-ji,info,
+Meiji Jingu,info,
+Shinjuku Gyoen Nacional Garden,info,
+1,21,3,1999
+3
+Aveiro,Portugal,40.6,8.7
+3
+Praia da Barra,info,
+Aveiro Museum,info,
+Praia da Costa Nova,info,
+New York,America do Norte,40.7,74.0
+3
+Central Park,info,
+Museum of Modern Art,info,
+Statue of Liberty Nacional Monument,info,
+Tokyo,Japao,35.7,139.8
+3
+Senso-ji,info,
+Meiji Jingu,info,
+Shinjuku Gyoen Nacional Garden,info,
+2,21,10,2010
+3
+Los Angels,America do Norte,34.1,118.2
+3
+Disneyland Park,info,
+Los Angels Museum of Art,info,
+Santa Monica Pier,info,
+Madrid,Espanha,40.4,3.7
+3
+Estadio Santiago Bernabeu,info,
+Plaza Mayor,info,
+Gran Via,info,
+New York,America do Norte,40.7,74.0
+3
+Central Park,info,
+Museum of Modern Art,info,
+Statue of Liberty Nacional Monument,info,
+333333333,Ana Costa,933333333,08-10-2001,Rua 3,
+3
+3,21,12,2013
+3
+Aveiro,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Benfica,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Porto,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+2,21,10,2015
+3
+Aveiro,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Benfica,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Porto,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+1,21,3,2021
+3
+Aveiro,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Benfica,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,
+Porto,info,0.0,0.0
+3
+Estadio do Dragao,info,
+Via Catarina,info,
+Ponte D.Luiz,info,

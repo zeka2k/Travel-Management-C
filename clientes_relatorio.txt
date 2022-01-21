@@ -1,0 +1,182 @@
+Clientes: 3
+
+
+|------------------------------------CLIENTE[1]------------------------------------|
+NIF -> 111111111
+IDENTIFICACAO -> Jose Silva
+CONTACTO -> 911111111
+DATA NASCIMENTO -> 21-03-1999
+MORADA FISCAL -> Rua 1
+
+Historico de Viagens:
+
+viagem[3]-> 21/1/1999
+	->cidade[1] || Los Angels, America do Norte, Cordenadas: 34.0522ºN, 118.2437ºW
+		||poi[1] -> Disneyland Park, info
+		||poi[2] -> Los Angels Museum of Art, info
+		||poi[3] -> Santa Monica Pier, info
+
+	->cidade[2] || Madrid, Espanha, Cordenadas: 40.4168ºN, 3.7038ºW
+		||poi[1] -> Estadio Santiago Bernabeu, info
+		||poi[2] -> Plaza Mayor, info
+		||poi[3] -> Gran Via, info
+
+	->cidade[3] || Monaco, Monaco, Cordenadas: 43.7384ºN, 7.4246ºW
+		||poi[1] -> Monte Carlo Casino, info
+		||poi[2] -> Exotic Garden of Monaco, info
+		||poi[3] -> Saint Nicholas Cathedral, info
+
+
+viagem[2]-> 21/3/1999
+	->cidade[1] || Londres, Inglaterra, Cordenadas: 51.5072ºN, 0.1276ºW
+		||poi[1] -> The British Museum, info
+		||poi[2] -> Tower of London, info
+		||poi[3] -> Natural History Museum, info
+
+	->cidade[2] || Roma, Italia, Cordenadas: 41.9028ºN, 12.4964ºW
+		||poi[1] -> Colosseum, info
+		||poi[2] -> Pantheon, info
+		||poi[3] -> Trevi Fountain, info
+
+	->cidade[3] || Santorini, Grecia, Cordenadas: 36.3932ºN, 25.4615ºW
+		||poi[1] -> Red Beach, info
+		||poi[2] -> Kamari Beach, info
+		||poi[3] -> Perivolos, info
+
+
+viagem[1]-> 11/1/2000
+	->cidade[1] || Braga, Portugal, Cordenadas: 41.5454ºN, 8.4265ºW
+		||poi[1] -> Estadio d, info
+		||poi[2] -> Santuario de Nossa Senhora do Sameiro, info
+		||poi[3] -> Elevador do Bom Jesus do Monte, info
+
+	->cidade[2] || Lisboa, Portugal, Cordenadas: 38.7223ºN, 9.1393ºW
+		||poi[1] -> Estadio da Luz, info
+		||poi[2] -> Torre de Belem, info
+		||poi[3] -> Oceanario de Lisboa, info
+
+	->cidade[3] || Porto, Portugal, Cordenadas: 41.1579ºN, 8.6291ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+
+|------------------------------------CLIENTE[2]------------------------------------|
+NIF -> 222222222
+IDENTIFICACAO -> Rodrigo Branco
+CONTACTO -> 922222222
+DATA NASCIMENTO -> 23-08-1999
+MORADA FISCAL -> Rua 2
+
+Historico de Viagens:
+
+viagem[3]-> 21/12/1970
+	->cidade[1] || Monaco, Monaco, Cordenadas: 43.7384ºN, 7.4246ºW
+		||poi[1] -> Monte Carlo Casino, info
+		||poi[2] -> Exotic Garden of Monaco, info
+		||poi[3] -> Saint Nicholas Cathedral, info
+
+	->cidade[2] || Santorini, Grecia, Cordenadas: 36.3932ºN, 25.4615ºW
+		||poi[1] -> Red Beach, info
+		||poi[2] -> Kamari Beach, info
+		||poi[3] -> Perivolos, info
+
+	->cidade[3] || Tokyo, Japao, Cordenadas: 35.6804ºN, 139.7690ºW
+		||poi[1] -> Senso-ji, info
+		||poi[2] -> Meiji Jingu, info
+		||poi[3] -> Shinjuku Gyoen Nacional Garden, info
+
+
+viagem[1]-> 21/3/1999
+	->cidade[1] || Aveiro, Portugal, Cordenadas: 40.6405ºN, 8.6538ºW
+		||poi[1] -> Praia da Barra, info
+		||poi[2] -> Aveiro Museum, info
+		||poi[3] -> Praia da Costa Nova, info
+
+	->cidade[2] || New York, America do Norte, Cordenadas: 40.7128ºN, 74.0060ºW
+		||poi[1] -> Central Park, info
+		||poi[2] -> Museum of Modern Art, info
+		||poi[3] -> Statue of Liberty Nacional Monument, info
+
+	->cidade[3] || Tokyo, Japao, Cordenadas: 35.6804ºN, 139.7690ºW
+		||poi[1] -> Senso-ji, info
+		||poi[2] -> Meiji Jingu, info
+		||poi[3] -> Shinjuku Gyoen Nacional Garden, info
+
+
+viagem[2]-> 21/10/2010
+	->cidade[1] || Los Angels, America do Norte, Cordenadas: 34.0522ºN, 118.2437ºW
+		||poi[1] -> Disneyland Park, info
+		||poi[2] -> Los Angels Museum of Art, info
+		||poi[3] -> Santa Monica Pier, info
+
+	->cidade[2] || Madrid, Espanha, Cordenadas: 40.4168ºN, 3.7038ºW
+		||poi[1] -> Estadio Santiago Bernabeu, info
+		||poi[2] -> Plaza Mayor, info
+		||poi[3] -> Gran Via, info
+
+	->cidade[3] || New York, America do Norte, Cordenadas: 40.7128ºN, 74.0060ºW
+		||poi[1] -> Central Park, info
+		||poi[2] -> Museum of Modern Art, info
+		||poi[3] -> Statue of Liberty Nacional Monument, info
+
+
+|------------------------------------CLIENTE[3]------------------------------------|
+NIF -> 333333333
+IDENTIFICACAO -> Ana Costa
+CONTACTO -> 933333333
+DATA NASCIMENTO -> 08-10-2001
+MORADA FISCAL -> Rua 3
+
+Historico de Viagens:
+
+viagem[3]-> 21/12/2013
+	->cidade[1] || Aveiro, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[2] || Benfica, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[3] || Porto, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+
+viagem[2]-> 21/10/2015
+	->cidade[1] || Aveiro, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[2] || Benfica, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[3] || Porto, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+
+viagem[1]-> 21/3/2021
+	->cidade[1] || Aveiro, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[2] || Benfica, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
+	->cidade[3] || Porto, info, Cordenadas: 0.0000ºN, 0.0000ºW
+		||poi[1] -> Estadio do Dragao, info
+		||poi[2] -> Via Catarina, info
+		||poi[3] -> Ponte D.Luiz, info
+
